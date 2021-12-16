@@ -12,8 +12,8 @@
 
 5.1- in case you want to see the camera image Set the ShowCameraImage in tracking.py to True
 
-6- open tracking.py and run it
+6- run tracking.py 
 
-7- open unity project and start it
+7- run unity project
 
-8- the hand tracking will be started!
+and done!
